@@ -464,7 +464,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/1-85x48.png",
                 "title": "title 1",
                 "text": "text 1",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
@@ -479,14 +479,14 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1ok-2-1600x720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/1ok-2-1600x560.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/1ok-2-85x48.png",
-                "title": "title 1",
-                "text": "text 1",
-                "active": false,
+                "src": "@PROJECT_PATH@/assets/images/2-2000x900.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/2-1-85x48.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true,
                 "alt": ""
               }
             ],
